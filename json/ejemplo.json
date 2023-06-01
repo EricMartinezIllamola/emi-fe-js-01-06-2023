@@ -1,0 +1,30 @@
+{
+    "nombre": "Èric Martínez",
+    "email": "eric77711@gmail.com",
+    "edad": 28,
+    "works": [
+        {
+            "empresa": "empresa1",
+            "ubicacion": "barcelona",
+            "f_inicio": "2021-01-01",
+            "f_fin": "2021-04-03"
+        },
+        {
+            "empresa": "empresa2",
+            "ubicacion": "barcelona",
+            "f_inicio": "2020-01-01",
+            "f_fin": "2020-06-03"
+        },
+        {
+            "empresa": "empresa3",
+            "ubicacion": "barcelona",
+            "f_inicio": "2019-01-01",
+            "f_fin": "2019-07-03"
+        }
+    ],
+    "softskills": [
+        "creativo",
+        "dinamico",
+        "puntual"
+    ]
+}
